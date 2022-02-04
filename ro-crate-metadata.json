@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2021-12-20T17:04:47.625180",
+            "datePublished": "2022-02-04T11:28:57.510371",
             "hasPart": [
                 {
                     "@id": "consensus-from-variation.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/sars-cov-2-consensus-from-variation",
-            "version": "0.2.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
